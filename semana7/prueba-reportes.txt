@@ -1,0 +1,1 @@
+La ruta GET /reportes devuelve la lista de todos los reportes almacenados en memoria. Cada vez que se registra un nuevo reporte mediante la ruta POST, este se agrega al arreglo reportes y luego puede consultarse utilizando la ruta GET. Si el servidor se reinicia, la lista vuelve a quedar vacía porque los datos solo se almacenan temporalmente en memoria.
