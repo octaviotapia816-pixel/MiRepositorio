@@ -1,0 +1,11 @@
+Ruta /
+
+Muestra el mensaje "Servidor activo", indicando que el servidor está funcionando correctamente.
+
+Ruta /saludo
+
+Muestra el mensaje "Hola comunidad", verificando que la ruta responde correctamente.
+
+Ruta /mensaje/juan
+
+Recibe el nombre enviado en la URL y responde con el mensaje "Hola juan". Esto demuestra el uso de parámetros en una ruta de Express.
