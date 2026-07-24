@@ -1,0 +1,11 @@
+Evento que activa el flujo:
+Cuando un usuario registra un nuevo reporte dentro de la plataforma comunitaria.
+
+Acción:
+n8n procesa el evento y envía una notificación automática mediante Telegram.
+
+Mensaje enviado:
+"Nuevo reporte recibido. Revisar la plataforma para realizar seguimiento."
+
+Información que no debe enviarse:
+No se deben enviar nombres completos, documentos de identidad, direcciones, teléfonos, contraseñas, tokens, claves de API ni información sensible.

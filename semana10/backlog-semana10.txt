@@ -1,0 +1,13 @@
+Backlog de solución comunitaria
+
+Prioridad 1:
+Como ciudadano quiero registrar una incidencia para dejar evidencia de un caso y permitir su seguimiento.
+
+Prioridad 2:
+Como coordinador quiero consultar los reportes registrados para revisar avances y tomar decisiones.
+
+Prioridad 3:
+Como miembro de la comunidad quiero recibir notificaciones sobre el estado de mis reportes.
+
+Prioridad 4:
+Como administrador quiero generar reportes generales para analizar la participación comunitaria.

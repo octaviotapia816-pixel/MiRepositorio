@@ -1,0 +1,12 @@
+Las dos tareas que realizaría primero son:
+
+1. Crear el registro de incidencias.
+2. Crear la consulta de reportes.
+
+Son las más importantes porque permiten recopilar información inicial y hacer seguimiento a las solicitudes de la comunidad.
+
+Para mí, una tarea está terminada cuando cumple los siguientes criterios:
+
+- Funciona correctamente.
+- Fue probada y no presenta errores importantes.
+- Quedó registrada mediante Git con evidencia del cambio realizado.
